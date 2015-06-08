@@ -1,13 +1,13 @@
 <b>Screenshots</b>
 
 1. <br>
-![Screenshot 1](https://github.com/Asutosh11/Daily-Diary/blob/master/screenshot-1.PNG "")
+![Screenshot 1](https://github.com/Asutosh11/Daily-Diary-with-posts-search-option/blob/master/screenshot-1.PNG "")
 
 2. <br>
-![Screenshot 2](https://github.com/Asutosh11/Daily-Diary/blob/master/screenshot-2.PNG "")
+![Screenshot 2](https://github.com/Asutosh11/Daily-Diary-with-posts-search-option/blob/master/screenshot-2.PNG "")
 
 3. <br>
-![Screenshot 3](https://github.com/Asutosh11/Daily-Diary/blob/master/screenshot-3.PNG "")
+![Screenshot 3](https://github.com/Asutosh11/Daily-Diary-with-posts-search-option/blob/master/screenshot-3.PNG "")
 
 
 <b>How to use this Project</b>
