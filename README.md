@@ -25,3 +25,5 @@
 4. (Optional) 
 
    Change the time zone in 'connect.php', line no. 3 to display time as per your time zone.
+   
+5. If you use it or modify it, just let me know at <b>panda.asutosh04@gmail.com</b>
