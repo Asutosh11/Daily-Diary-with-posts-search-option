@@ -5,7 +5,7 @@ This is a daily diary script with posts search option. You can enter a post. All
 <br>
 1. HTML.
 <br>
-2. CSS
+2. CSS, Bootstrap CSS
 <br>
 3. PHP
 <br>
