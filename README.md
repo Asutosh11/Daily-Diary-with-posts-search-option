@@ -10,6 +10,9 @@ This is a daily diary script with posts search option. You can enter a post. All
 3. PHP
 <br>
 4. MySQL
+<br>
+5. Javascript, JQuery
+<br><br>
 
 
 <b>Screenshots</b>
