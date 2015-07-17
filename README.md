@@ -1,3 +1,17 @@
+This is a daily diary script with posts search option. You can enter a post. All posts are searchable using the search box. 
+
+<br>
+<b>This app uses</b>
+<br>
+1. HTML.
+<br>
+2. CSS
+<br>
+3. PHP
+<br>
+4. MySQL
+
+
 <b>Screenshots</b>
 
 1. <br>
